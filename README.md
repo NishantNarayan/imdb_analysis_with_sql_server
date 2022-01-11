@@ -1,4 +1,7 @@
 # IMDB_analysis_with_sql_server
+
+Dataset from: imdb_analysis_with_sql_server
+
 Analyzing IMDB data using MS SQL 
 SQL topics covered:
 1. Handling NULLS in dataset
